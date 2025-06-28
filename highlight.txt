@@ -1,3 +1,1 @@
-A Google Sheet that maximizes trucks.  For each of my most popular vendors, a user can use drop downs to select how many pallets of product they want.  The sheet tallies the amount of product to place on the PO based on the amount of pallets selected as well as the weight.
-
-Most trucks are based off of 48,000 +/- and the sheet alerts the user when they exceed that amount.
+A Google Sheet that maximizes trucks.  For each of my most popular vendors, a user can use drop downs to select how many pallets of product they want.  The sheet tallies the amount of product to place on the PO based on the amount of pallets selected as well as the weight.  Most trucks are based off of 48,000lbs +/- and the sheet alerts the user when they exceed that amount.
